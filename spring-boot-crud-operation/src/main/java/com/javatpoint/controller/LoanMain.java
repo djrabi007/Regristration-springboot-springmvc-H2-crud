@@ -1,6 +1,8 @@
 package com.javatpoint.controller;
 
 /**
+
+generate personalized loan recommendations using a simple rule-based approach:
  * Personalized Loan Recommendations: Using the trained models, the system can
  * generate personalized loan recommendations for each customer. The
  * recommendations can include loan types, amounts, interest rates, repayment
